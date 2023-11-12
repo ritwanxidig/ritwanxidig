@@ -7,7 +7,7 @@
 ## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritwanxidig&show_icons=true&theme=nightowl&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ritwanxidig" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritwanxidig&show_icons=true&theme=nightowl&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ritwanxidig" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritwanxidig&show_icons=true&theme=nightowl&hide_border=true" alt="ritwanxidig" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ritwanxidig&theme=nightowl&hide_border=true" alt="ritwanxidig" />
 </p>
 
