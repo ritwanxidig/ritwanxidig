@@ -1,3 +1,7 @@
+<a href="TARGET_LINK">
+    <img alt="ALTERNATIVE_TEXT" src="https://img.shields.io/badge/MESSAGE1-MESSAGE2-lightgrey?color=COLOR&logo=PLATFORM_NAME" />
+</a>
+
 ### Hi there 👋<!--
 **ritwanxidig/ritwanxidig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
