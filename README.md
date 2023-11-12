@@ -13,7 +13,7 @@
       ✨ I love to create different types of **contents**.
 <td >
 # this is my daily.dev card, you can edit this accordingly
-      <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a>
+      <a href="https://www.cnet.com/a/img/resize/2f5aada0dd5f4f21e09d855658406aa026d5c102/hub/2020/06/10/06f2b84a-2241-4567-a2a5-611ebb1e2650/gettyimages-1129377183.jpg?auto=webp&fit=crop&height=900&width=1200"/></a>
     </td>
     
   </tr>
