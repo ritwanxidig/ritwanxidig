@@ -7,7 +7,6 @@
 ## Stats📈
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritwanxidig&show_icons=true&theme=nightowl&hide_border=true" alt="ritwanxidig" /> 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritwanxidig&show_icons=true&theme=nightowl&hide_border=true" alt="ritwanxidig" /> 
 </p>
 
    
