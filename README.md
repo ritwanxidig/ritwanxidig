@@ -1,13 +1,4 @@
-/*## About Me🙎‍♂️
-      🙌 Hi There, My Name is Ritwan.
-      🧑‍💻 I am a Software Developer building a successful career in the tech industry.
-      🌱 I am skilled in various Languages, I constantly expanding my knowledge and expertise.
-      🚀 My main focus is contributing to open source projects and actively collaborating with fellow developers.
-      💡 I am passionate about creating impactful and innovative solutions for real-world problems.
-## Stats📈
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritwanxidig&show_icons=true&theme=nightowl&hide_border=true" alt="ritwanxidig" /> 
-</p>
+
 
    
 # Code and Coffee 🖤
