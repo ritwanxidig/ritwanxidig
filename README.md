@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/Ritwan_Rashid">
-    <img src="[https://twitter.com/Ritwan_Rashid](https://img.shields.io/badge/Twitter-Follow-1DA1F2)" alt="Twitter">
+    <img src="(https://img.shields.io/badge/Twitter-Follow-1DA1F2)" alt="Twitter">
   </a>
 </p>
 
