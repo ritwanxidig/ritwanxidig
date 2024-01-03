@@ -1,8 +1,8 @@
 <!-- Header -->
-<h1 align="center">Hi there 👋, I'm Ritwan Xidig</h1>
+<h1 align="start">Hi there 👋, I'm Ritwan Xidig</h1>
 
 <!-- Introduction -->
-<p align="center">Passionate about FullStack Development. Welcome to my GitHub profile! 🚀</p>
+<p align="start">Passionate about FullStack Development. Welcome to my GitHub profile! 🚀</p>
 
 <!-- Connect with Me -->
 <p align="center">
@@ -12,11 +12,6 @@
   <a href="https://twitter.com/your-twitter-handle">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2" alt="Twitter">
   </a>
-</p>
-
-<!-- GitHub Activity -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritwanxidig&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <!-- Bio -->
