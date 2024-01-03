@@ -1,20 +1,28 @@
-# Hi there 👋, I'm [Your Name]
+<!-- Header -->
+<h1 align="center">Hi there 👋, I'm Ritwan Xidig</h1>
 
-I'm passionate about FullStack Development. Welcome to my GitHub profile! 🚀
+<!-- Introduction -->
+<p align="center">Passionate about FullStack Development. Welcome to my GitHub profile! 🚀</p>
 
-## 🔧 Technologies & Tools
+<!-- Connect with Me -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-twitter-handle">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2" alt="Twitter">
+  </a>
+</p>
 
-- MERN Stack
-- ASP.NET Core
-- SQL and NoSQL Databases 
+<!-- GitHub Activity -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritwanxidig&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
-## 📈 GitHub Stats
+<!-- Bio -->
+<p align="center">Feel free to explore my repositories and reach out! 😊</p>
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritwanxidig&show_icons=true&theme=radical)](https://github.com/ritwanxidig)
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your-twitter-handle)
-
-Feel free to reach out! 😊
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwanxidig&layout=compact" alt="Top Languages">
+</p>
