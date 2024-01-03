@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/ridwan-abdirashid-3a92a1286/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://twitter.com/Ritwan_Rashid" alt="Twitter">
+  <a href="https://twitter.com/Ritwan_Rashid">
+    <img src="[https://twitter.com/Ritwan_Rashid](https://img.shields.io/badge/Twitter-Follow-1DA1F2)" alt="Twitter">
   </a>
 </p>
 
