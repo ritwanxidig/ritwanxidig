@@ -14,8 +14,6 @@
   </a>
 </p>
 
-<!-- Bio -->
-<p align="start">Feel free to explore my repositories and reach out! 😊</p>
 
 <!-- Most Used Languages -->
 <p align="start">
