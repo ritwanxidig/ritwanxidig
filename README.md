@@ -7,7 +7,7 @@
 <!-- Connect with Me -->
 <p align="start">
   <a>
-    ![](https://komarev.com/ghpvc/?username=your-github-ritwanxidig&color=blue)
+      <img src="https://komarev.com/ghpvc/?username=your-github-ritwanxidig&color=blue" alt="profile views">
   </a>
   <a href="https://www.linkedin.com/in/ridwan-abdirashid-3a92a1286/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
